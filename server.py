@@ -33,7 +33,7 @@ MOST_LOVED_MELONS = {
         'num_loves': 598,
     },
 }
-# MOST_LOVED_MELONS = []
+
 melons = MOST_LOVED_MELONS
 
 @app.route("/")

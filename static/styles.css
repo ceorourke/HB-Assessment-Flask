@@ -11,8 +11,6 @@ img {
 
 body {
     font-family: sans-serif;
-/*    background-image: url("http://cdn.wallpapersafari.com/96/86/soAf0d.jpg")
-*/
     background-color: purple;
 }
 
@@ -30,4 +28,5 @@ footer {
 .button {
     background-color: #FF69B4;
     border-radius: 8px;
-}
+/*    I looked on W3 for how to make the button rounded
+*/}
