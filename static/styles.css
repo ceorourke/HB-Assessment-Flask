@@ -1,0 +1,33 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.melon-div {
+    display: inline-block;
+    padding: 10px;
+    width: 205px;
+}
+
+body {
+    font-family: sans-serif;
+/*    background-image: url("http://cdn.wallpapersafari.com/96/86/soAf0d.jpg")
+*/
+    background-color: purple;
+}
+
+h1 {
+    color: #000000;
+    font-family: sans-serif;
+    background-color: white;
+    text-align: center;
+}
+
+footer {
+    font-family: sans-serif;
+}
+
+.button {
+    background-color: #FF69B4;
+    border-radius: 8px;
+}

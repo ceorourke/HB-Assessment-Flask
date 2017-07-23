@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block title %}Melons Melons Melons{% endblock %}
+
+{% block content %}
+    <h1>Ubermelon's Most Loved Melons</h1>
+    <form action="/get-name" method=GET>
+        Enter your name: <input type="text" name="username" required>
+    </br></br>
+        <input class='button' type="submit" value="Show me those melons!">
+    </form>
+{% endblock %}
